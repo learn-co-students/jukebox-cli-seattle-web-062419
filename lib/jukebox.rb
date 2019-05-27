@@ -55,8 +55,8 @@ def run(songs)
     elsif
       users == "help"
       help
-    end 
-    exit_jukebox
+    end  
   end
+  exit_jukebox
 end
 
